@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswinda&label=Profile%20views&color=0e75b6&style=flat" alt="Kshitiz Shrestha" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **data management**
 

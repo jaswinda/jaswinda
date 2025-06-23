@@ -1,153 +1,119 @@
-<h1 align="center">Hi 👋, I'm Jaswindar Singh</h1>
-<h3 align="center">A passionate Software Engineer from Nepal</h3>
+# 👋 Hi, I'm Jaswindar Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswinda&label=Profile%20views&color=0e75b6&style=flat" alt="Kshitiz Shrestha" /> </p>
-
-- 🌱 I’m currently learning **Go**
-
-- 💬 Ask me about **data management**
-
-- 📫 How to reach me **yashwindar2624@gmail.com**
-
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="https://www.upwork.com/freelancers/~01656f52fbf4ce6741" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Upwork_Logo.svg" alt="Upwork" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.linkedin.com/in/jaswindar/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:yashwidar2624@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
-
-## 🧰 Languages and Tools:
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswinda&layout=compact" />
- </div>
- <hr>
-<table style="margin: auto;">
-    <tr>
-        <td align="center" width="96">
-            <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-                    alt="aws" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
-                    alt="css3" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                    alt="css3" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                    alt="docker" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Adobe_Experience_Design_logo.svg"
-                    alt="express" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-                    height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-        </a> 
-        </td>
-        <td align="center" width="96">
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="#macropower-tech">
-                <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg"
-                    width="48" height="48" alt="Kubernetes" />
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40" /> </a> 
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.linux.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.mysql.com/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="nestjs"
-                    width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" /> </a> 
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.photoshop.com/en" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                alt="photoshop" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.postgresql.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://reactjs.org/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                alt="react" width="40" height="40" /> </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-                alt="redis" width="40" height="40" /> </a> 
-        </td>
-        <td align="center" width="96">
-            <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-                    width="40" height="40" /> </a> 
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                    alt="typescript" width="40" height="40" /> </a>
-        </td>
-    </tr>
-</table>
-<hr>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Data+Management+Expert;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaswinda&show_icons=true&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=jaswinda&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile Views" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Software Engineer** from Nepal with expertise in building scalable web applications and managing complex data systems. Currently focused on mastering **Go** while leveraging my strong foundation in modern web technologies.
+
+### 🎯 What I Do
+- **Full-Stack Development** with React, Node.js, and Laravel
+- **Data Management** and database optimization
+- **Cloud Infrastructure** on AWS with Docker & Kubernetes
+- **Mobile Development** with Flutter
+- **UI/UX Design** with Figma and Adobe XD
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend & Mobile**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+
+### **Design & Tools**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=white&style=flat)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+---
+
+## 🎯 Current Focus
+
+- 🌱 **Learning**: Go programming language
+- 🔧 **Building**: Scalable web applications
+- 📊 **Specializing**: Data management and optimization
+- 🚀 **Exploring**: Cloud-native architectures
+
+---
+
+## 💼 Professional Experience
+
+I specialize in **data management** and have extensive experience building robust, scalable applications. My expertise spans from frontend development to backend architecture, with a particular focus on creating efficient data solutions.
+
+### Key Areas:
+- **Full-Stack Development** - End-to-end application development
+- **Database Design** - Optimized data structures and queries
+- **API Development** - RESTful and GraphQL APIs
+- **Cloud Solutions** - AWS infrastructure and deployment
+- **Performance Optimization** - Scalable and efficient systems
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jaswindar/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.upwork.com/freelancers/~01656f52fbf4ce6741" target="_blank">
+    <img src="https://img.shields.io/badge/-Upwork-14A800?logo=upwork&logoColor=white&style=for-the-badge" alt="Upwork" />
+  </a>
+  
+  <a href="mailto:yashwindar2624@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/jaswinda">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswinda&theme=radical&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF&currStreakLabel=4F46E5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaswinda&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ Star this repository if you found it helpful!</sub>
 </div>

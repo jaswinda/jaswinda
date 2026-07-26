@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaswindar Singh (Yashwindar Singh)
+# 👋 Hi, I'm Jassi Singh (Yashwindar Singh)
 
 **Senior Full Stack Software Engineer** | 7+ years building scalable web & mobile products
 
